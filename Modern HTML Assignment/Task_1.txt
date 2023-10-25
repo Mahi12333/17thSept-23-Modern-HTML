@@ -1,0 +1,21 @@
+1. List out the features of HTML5.
+Answer:-
+Semantic Elements: HTML5 introduced a set of new semantic elements like <header>, <nav>, <section>, <article>, <footer>, and more, which provide a clearer and more structured way to define the different parts of a web page's content.
+
+Audio and Video: HTML5 includes native support for audio and video elements <audio> and <video>, making it easier to embed multimedia content without relying on third-party plugins like Flash.
+
+Canvas: The <canvas> element allows for dynamic, scriptable rendering of 2D graphics, making it suitable for creating animations, interactive games, and data visualizations.
+
+Local Storage: HTML5 provides the localStorage and sessionStorage APIs, allowing web applications to store data locally in a user's browser. This is useful for building offline-capable applications and storing user preferences.
+
+Web Workers: Web Workers enable multi-threading in web applications, allowing tasks to run in the background without affecting the main user interface, improving performance and responsiveness.
+
+Geolocation: HTML5 provides the Geolocation API, which allows web applications to access a user's geographical location, enabling location-based services and applications.
+
+WebSockets: WebSockets provide a full-duplex communication channel over a single TCP connection, facilitating real-time, two-way communication between a client and server.
+
+Responsive Design: HTML5 includes features like media queries and the viewport meta tag, making it easier to create responsive web designs that adapt to various screen sizes and devices.
+
+Form Enhancements: New form elements and attributes, such as <input type="email">, <input type="date">, and <input type="number">, provide improved user input validation and the ability to select dates, numbers, and more.
+
+Offline Web Applications: HTML5 introduces the Application Cache (AppCache) and Service Workers, enabling the development of offline web applications that work even when a user is not connected to the internet.
