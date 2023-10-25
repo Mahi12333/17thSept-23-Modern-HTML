@@ -1,0 +1,10 @@
+3? Define accessibility in the context of web development? Discuss why it's essential to create accessible
+websites and how it benefits different user groups.
+Answer:-
+Accessibility in web development refers to the practice of creating websites and web applications that are designed and developed to be usable and understandable by a broad audience, including individuals with disabilities. It ensures that people with diverse abilities and characteristics can access, understand, and interact with web content, products, and services without barriers. Web accessibility is a fundamental aspect of inclusive design, emphasizing the following principles:
+
+Perceivable: Information and user interface components must be presented in ways that users can perceive, regardless of their sensory capabilities. This includes providing text alternatives for non-text content, ensuring content is adaptable, and offering multiple ways to present information.
+
+Operable: Users should be able to navigate and interact with the website using various input methods, such as keyboard, mouse, or assistive technologies. Websites must be keyboard-friendly and allow users to control any time limits on content.
+
+Understandable: The web content and user interface should be clear and easy to understand. This involves using consistent navigation, providing input assistance, and ensuring that errors are identifiable and understandable.
